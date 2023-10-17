@@ -178,6 +178,37 @@ Lebron James Regular Season Games (2003 - Current) by ZHIKAICHEN99
   - Basic syntax: `=DAY(serial_number)`;`=MONTH(serial_number)`;`=YEAR(serial_number)`
 
 # LOOKUP FUNCTIONS
-- **Description:**
+## _AREAS Function_
+- **Description:** The `AREAS` function returns the number of areas in a reference. An area is a range of contiguous cells or a single cell.
 
 - **Usage:**
+  - Basic syntax: `=AREAS(reference)`
+
+## _ADDRESS Function_
+- **Description:** The `ADDRESS` function is used to obtain the address of a cell in a worksheet, given specified row and column numbers.
+
+- **Usage:**
+  - Basic syntax: `=ADDRESS(row_num, column_num, [abs_num], [a1], [sheet_text])`
+
+## _COLUMNS Function_
+- **Description:** The `COLUMNS` function returns the number of columns in an array or reference. It is useful for looking up and providing the column number of a given cell reference.
+
+- **Usage:**
+  - Basic syntax: `=COLUMNS(array)`
+
+## _INDIRECT Function_
+- **Description:** The `INDIRECT` function is used to create a reference specified by a text string. It enables us to create references from cell values. It also returns the reference specified by a text string. References are immediately evaluated to display their contents.
+
+- **Usage:**
+  - Basic syntax: `=INDIRECT(ref_text, [a1])`
+
+## _COLUMN Function_
+- **Description:** The `COLUMN` function is useful for looking up and providing the column number of a given cell reference. It returns the column number of the given cell reference.
+
+- **Usage:**
+  - Basic syntax: `=COLUMN([reference])`
+ 
+## EXCEL DASHBOARD
+  An Excel dashboard is a visual representation of data and information from various sources, presented in a consolidated, easy-to-read format. It is typically created using Microsoft Excel and is designed to provide a quick overview of key metrics, trends, and insights, allowing users to make informed decisions based on the data.
+
+  Here, a dashboard is used to showcase LeBron's Regular Season Statistics, starting from 2003 up to the present, in Cleveland Cavaliers, Miami Heat, and Los Angeles Lakers.
