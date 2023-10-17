@@ -3,6 +3,40 @@
 # Text Functions
 
 # Math Functions
+## AVERAGE Function
+- **Description:** The `AVERAGE` function is used to generate a number that represents a typical value from a range, distribution, or list of numbers. It is calculated by adding all the numbers included in the list and then dividing the total by the number of values within the list.
+
+- **Usage:**
+  - Basic syntax: `=AVERAGE(number1,[number2],...)`
+  - Example
+
+## COUNT Function
+- **Description:** The `COUNT` function is used to get the number of entries in a number field that is in a range or array of numbers.
+
+- **Usage:**
+  - Basic syntax: `=COUNT(value1,[value2],...)`
+  - Example
+
+## MIN & MAX Function
+- **Description:** The `MIN & MAX` function is used to tell what the largest and the smallest numeric value is in a range of cells. MIN is for the smallest numeric value, while MAX is for the largest numeric value.
+
+- **Usage:**
+  - Basic syntax: `=MIN(number1,[number2],...)`;`=MAX(number1,[number2],...)`
+  - Example
+
+## SUM Function
+- **Description:** The `SUM` function in Excel is used to add up numerical values in a range of cells.
+
+- **Usage:**
+  - Basic syntax: `=SUM(number1,[number2],...)`
+  - Example
+
+## COUNTBLANK Function
+- **Description:** The `COUNTBLANK` function in Excel is used to count the number of empty cells in a range of cells.
+
+- **Usage:**
+  - Basic syntax: `=COUNTBLANK(range)`
+  - Example
 
 # Logical Functions
 
