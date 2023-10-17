@@ -211,4 +211,6 @@ Lebron James Regular Season Games (2003 - Current) by ZHIKAICHEN99
 ## EXCEL DASHBOARD
   An Excel dashboard is a visual representation of data and information from various sources, presented in a consolidated, easy-to-read format. It is typically created using Microsoft Excel and is designed to provide a quick overview of key metrics, trends, and insights, allowing users to make informed decisions based on the data.
 
-  Here, a dashboard is used to showcase LeBron's Regular Season Statistics, starting from 2003 up to the present, in Cleveland Cavaliers, Miami Heat, and Los Angeles Lakers.
+  Here, a dashboard is used to showcase LeBron's Regular Season Statistics, starting from 2003 up to the present, in the Cleveland Cavaliers, Miami Heat, and Los Angeles Lakers.
+
+![image](https://github.com/MLAndal/Midterms_Group6/assets/143612018/5374a79c-2b37-4077-89b2-7a696131cf2a)
